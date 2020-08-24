@@ -303,3 +303,15 @@ event HudTournamentSetupPanelClose
 }
 
 //===========================================
+
+event CompetitiveGame_LowerChatWindow
+{
+}
+event CompetitiveGame_RestoreChatWindow
+{
+}
+event HudTournament_MoveChatWindow
+{
+}
+
+//===========================================
