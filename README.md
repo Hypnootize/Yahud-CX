@@ -1,12 +1,7 @@
 # Yahud-CX
-Screenshots: https://imgur.com/a/UXbjv
 
-How to Download and Install: https://imgur.com/a/w3Ah6
+**[SCREENSHOTS ALBUM](https://imgur.com/a/UXbjv)** 
 
-Original Damage Color:
+**[INSTALLATION](https://imgur.com/a/w3Ah6)**
 
-hud_combattext_red 238
-
-hud_combattext_green 238
-
-hud_combattext_blue 51
+![](https://i.imgur.com/ytuW74p.jpg)
